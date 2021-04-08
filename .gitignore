@@ -1,0 +1,8 @@
+BUILD/*
+BUILDROOT/*
+RPMS/*
+SOURCES/*
+SRPMS/*
+
+!.gitkeep
+!SOURCES/*.patch
